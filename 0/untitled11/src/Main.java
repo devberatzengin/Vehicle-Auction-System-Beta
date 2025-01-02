@@ -59,8 +59,8 @@ class Main {
         systemLogoLabel.setVerticalAlignment(JLabel.CENTER);
 
         systemCreatorLabel.setText("Dev. Berat Zengin");
-        systemCreatorLabel.setBounds(((int)(frame.getWidth()/1.25))-25,12,250,50);
-        systemCreatorLabel.setFont(new Font("",Font.BOLD,25));
+        systemCreatorLabel.setBounds(((int)(frame.getWidth()/1.2)),12,175,50);
+        systemCreatorLabel.setFont(new Font("",Font.BOLD,15));
         systemCreatorLabel.setHorizontalAlignment(JLabel.CENTER);
         systemCreatorLabel.setVerticalAlignment(JLabel.CENTER);
 
