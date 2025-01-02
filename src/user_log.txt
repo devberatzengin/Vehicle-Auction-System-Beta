@@ -1,0 +1,4 @@
+Seller1,mailseller,sifre
+bidder,biddermail,sifre2
+SaticiAhmet,Ahmetmail,sifre
+TeklifciMehmet,mehmetmail,sifre2
